@@ -1702,8 +1702,6 @@ http://admin-mainpanel.club:8080/andrewh/andrewh/32869
 http://admin-mainpanel.club:8080/andrewh/andrewh/32871
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: VOYO" tvg-logo="" group-title="Live: Slovenia",VIP SLO: VOYO
 http://admin-mainpanel.club:8080/andrewh/andrewh/32876
-#EXTINF:-1 tvg-ID="" tvg-name="==== ex-yu1 =====" tvg-logo="" group-title="",==== ex-yu1 =====
-http://admin-mainpanel.club:8080/Bjorn/Bjorn/3287
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: Zadruga Uživo 1" tvg-logo="" group-title="Live: EX-Yu",VIP RS: Zadruga Uživo 1
 http://admin-mainpanel.club:8080/Bjorn/Bjorn/33669
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: Zadruga Uživo 2" tvg-logo="" group-title="Live: EX-Yu",VIP RS: Zadruga Uživo 2
@@ -2762,7 +2760,7 @@ http://admin-mainpanel.club:8080/Bjorn/Bjorn/23650
 http://admin-mainpanel.club:8080/Bjorn/Bjorn/18206
 #EXTINF:-1 tvg-ID="NULL" tvg-name="MNE: Televizija 777" tvg-logo="" group-title="Live: EX-Yu",MNE: Televizija 777
 http://admin-mainpanel.club:8080/Bjorn/Bjorn/18204
-#EXTINF:-1 tvg-ID="" tvg-name="==== Bulgaria1 =====" tvg-logo="" group-title="",==== Bulgaria1 =====
+#EXTINF:-1 tvg-ID="" tvg-name="==== Bulgaria =====" tvg-logo="" group-title="",==== Bulgaria =====
 http://admin-mainpanel.club:8080/Bjorn/Bjorn/3287
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: BNT 1" tvg-logo="" group-title="Live: Bulgaria",BG: BNT 1
 http://admin-mainpanel.club:8080/Bjorn/Bjorn/3284
