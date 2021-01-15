@@ -225,8 +225,6 @@ http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/737
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/736
 #EXTINF:-1,EX-YO: Sport Klub 6
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/735
-#EXTINF:-1 tvg-id="" tvg-name="------|Msacedonia|------" tvg-logo="" group-title="Macedonia",------|Macedonia|------
-http://mu02.v2iptv.com:8880/test854/we235352/49326
 #EXTINF:-1 tvg-ID="NULL" tvg-name="MK: 24 Vesti" tvg-logo="" group-title="Live: Macedonia",MK: 24 Vesti
 http://admin-mainpanel.club:8080/andrewh/andrewh/16307
 #EXTINF:-1 tvg-ID="NULL" tvg-name="MK: Alfa TV" tvg-logo="" group-title="Live: Macedonia",MK: Alfa TV
@@ -339,195 +337,193 @@ http://admin-mainpanel.club:8080/andrewh/andrewh/16301
 http://admin-mainpanel.club:8080/andrewh/andrewh/42231
 #EXTINF:-1 tvg-ID="" tvg-name="MK: Viasat History" tvg-logo="" group-title="Live: Macedonia",MK: Viasat History
 http://admin-mainpanel.club:8080/andrewh/andrewh/42232
-#EXTINF:-1 tvg-id="" tvg-name="------|Srbija|------" tvg-logo="" group-title="Srbija",------|Yugoslavia 1|------
-http://mu02.v2iptv.com:8880/test854/we235352/49326
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: RTS HD" tvg-logo="" group-title="Live: EX-Yu",RS: RTS HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: RTS HD" tvg-logo="" group-title="Live: SRBIA",RS: RTS HD
 http://admin-mainpanel.club:8080/andrewh/andrewh/9119
-#EXTINF:-1 tvg-ID="rts1.rs" tvg-name="RS: RTS 1" tvg-logo="" group-title="Live: EX-Yu",RS: RTS 1
+#EXTINF:-1 tvg-ID="rts1.rs" tvg-name="RS: RTS 1" tvg-logo="" group-title="Live: SRBIA",RS: RTS 1
 http://admin-mainpanel.club:8080/andrewh/andrewh/1037
-#EXTINF:-1 tvg-ID="rts2.rs" tvg-name="RS: RTS 2" tvg-logo="" group-title="Live: EX-Yu",RS: RTS 2
+#EXTINF:-1 tvg-ID="rts2.rs" tvg-name="RS: RTS 2" tvg-logo="" group-title="Live: SRBIA",RS: RTS 2
 http://admin-mainpanel.club:8080/andrewh/andrewh/1038
-#EXTINF:-1 tvg-ID="rts3.rs" tvg-name="RS: RTS 3" tvg-logo="" group-title="Live: EX-Yu",RS: RTS 3
+#EXTINF:-1 tvg-ID="rts3.rs" tvg-name="RS: RTS 3" tvg-logo="" group-title="Live: SRBIA",RS: RTS 3
 http://admin-mainpanel.club:8080/andrewh/andrewh/7025
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: B92" tvg-logo="" group-title="Live: EX-Yu",RS: B92
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: B92" tvg-logo="" group-title="Live: SRBIA",RS: B92
 http://admin-mainpanel.club:8080/andrewh/andrewh/7043
-#EXTINF:-1 tvg-ID="prva.rs" tvg-name="RS: Prva TV" tvg-logo="" group-title="Live: EX-Yu",RS: Prva TV
+#EXTINF:-1 tvg-ID="prva.rs" tvg-name="RS: Prva TV" tvg-logo="" group-title="Live: SRBIA",RS: Prva TV
 http://admin-mainpanel.club:8080/andrewh/andrewh/7032
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Animal Planet" tvg-logo="" group-title="Live: EX-Yu",RS: Animal Planet
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Animal Planet" tvg-logo="" group-title="Live: SRBIA",RS: Animal Planet
 http://admin-mainpanel.club:8080/andrewh/andrewh/7899
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: ANP" tvg-logo="[" group-title="Live: EX-Yu",RS: ANP
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: ANP" tvg-logo="[" group-title="Live: SRBIA",RS: ANP
 http://admin-mainpanel.club:8080/andrewh/andrewh/13534
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Nick Jr." tvg-logo="[""]" group-title="Live: EX-Yu",RS: Nick Jr.
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Nick Jr." tvg-logo="[""]" group-title="Live: SRBIA",RS: Nick Jr.
 http://admin-mainpanel.club:8080/andrewh/andrewh/13549
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Nickelodeon" tvg-logo="" group-title="Live: EX-Yu",RS: Nickelodeon
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Nickelodeon" tvg-logo="" group-title="Live: SRBIA",RS: Nickelodeon
 http://admin-mainpanel.club:8080/andrewh/andrewh/13547
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Pink Kids" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Kids
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Pink Kids" tvg-logo="[" group-title="Live: SRBIA",RS: Pink Kids
 http://admin-mainpanel.club:8080/andrewh/andrewh/13553
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Baby TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Baby TV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Baby TV" tvg-logo="[" group-title="Live: SRBIA",RS: Baby TV
 http://admin-mainpanel.club:8080/andrewh/andrewh/13546
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Balkanika" tvg-logo="" group-title="Live: EX-Yu",RS: Balkanika
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Balkanika" tvg-logo="" group-title="Live: SRBIA",RS: Balkanika
 http://admin-mainpanel.club:8080/andrewh/andrewh/7041
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Mini TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Mini TV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Mini TV" tvg-logo="[" group-title="Live: SRBIA",RS: Mini TV
 http://admin-mainpanel.club:8080/andrewh/andrewh/13544
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Mini Ultra TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Mini Ultra TV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Mini Ultra TV" tvg-logo="[" group-title="Live: SRBIA",RS: Mini Ultra TV
 http://admin-mainpanel.club:8080/andrewh/andrewh/23613
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Belle Amie" tvg-logo="[" group-title="Live: EX-Yu",RS: Belle Amie
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Belle Amie" tvg-logo="[" group-title="Live: SRBIA",RS: Belle Amie
 http://admin-mainpanel.club:8080/andrewh/andrewh/23623
-#EXTINF:-1 tvg-ID="BN.bn" tvg-name="RS: BN BIH" tvg-logo="" group-title="Live: EX-Yu",RS: BN BIH
+#EXTINF:-1 tvg-ID="BN.bn" tvg-name="RS: BN BIH" tvg-logo="" group-title="Live: SRBIA",RS: BN BIH
 http://admin-mainpanel.club:8080/andrewh/andrewh/1032
-#EXTINF:-1 tvg-ID="" tvg-name="RS: BN Music" tvg-logo="" group-title="Live: EX-Yu",RS: BN Music
+#EXTINF:-1 tvg-ID="" tvg-name="RS: BN Music" tvg-logo="" group-title="Live: SRBIA",RS: BN Music
 http://admin-mainpanel.club:8080/andrewh/andrewh/7731
-#EXTINF:-1 tvg-ID="dmsat.rs" tvg-name="RS: DM SAT" tvg-logo="" group-title="Live: EX-Yu",RS: DM SAT
+#EXTINF:-1 tvg-ID="dmsat.rs" tvg-name="RS: DM SAT" tvg-logo="" group-title="Live: SRBIA",RS: DM SAT
 http://admin-mainpanel.club:8080/andrewh/andrewh/7040
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Grand 2" tvg-logo="[" group-title="Live: EX-Yu",RS: Grand 2
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Grand 2" tvg-logo="[" group-title="Live: SRBIA",RS: Grand 2
 http://admin-mainpanel.club:8080/andrewh/andrewh/9120
-#EXTINF:-1 tvg-ID="grand.rs" tvg-name="RS: Grand TV" tvg-logo="" group-title="Live: EX-Yu",RS: Grand TV
+#EXTINF:-1 tvg-ID="grand.rs" tvg-name="RS: Grand TV" tvg-logo="" group-title="Live: SRBIA",RS: Grand TV
 http://admin-mainpanel.club:8080/andrewh/andrewh/7037
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Boomerang" tvg-logo="[" group-title="Live: EX-Yu",RS: Boomerang
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Boomerang" tvg-logo="[" group-title="Live: SRBIA",RS: Boomerang
 http://admin-mainpanel.club:8080/andrewh/andrewh/13548
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Discovery Channel" tvg-logo="" group-title="Live: EX-Yu",RS: Discovery Channel
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Discovery Channel" tvg-logo="" group-title="Live: SRBIA",RS: Discovery Channel
 http://admin-mainpanel.club:8080/andrewh/andrewh/7900
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Discovery Xtra" tvg-logo="[" group-title="Live: EX-Yu",RS: Discovery Xtra
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Discovery Xtra" tvg-logo="[" group-title="Live: SRBIA",RS: Discovery Xtra
 http://admin-mainpanel.club:8080/andrewh/andrewh/13543
-#EXTINF:-1 tvg-ID="dutv.hr" tvg-name="RS: Duga TV" tvg-logo="" group-title="Live: EX-Yu",RS: Duga TV
+#EXTINF:-1 tvg-ID="dutv.hr" tvg-name="RS: Duga TV" tvg-logo="" group-title="Live: SRBIA",RS: Duga TV
 http://admin-mainpanel.club:8080/andrewh/andrewh/7039
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: E!" tvg-logo="[" group-title="Live: EX-Yu",RS: E!
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: E!" tvg-logo="[" group-title="Live: SRBIA",RS: E!
 http://admin-mainpanel.club:8080/andrewh/andrewh/13531
-#EXTINF:-1 tvg-ID="" tvg-name="RS: CINEMANIA" tvg-logo="" group-title="Live: EX-Yu",RS: CINEMANIA
+#EXTINF:-1 tvg-ID="" tvg-name="RS: CINEMANIA" tvg-logo="" group-title="Live: SRBIA",RS: CINEMANIA
 http://admin-mainpanel.club:8080/andrewh/andrewh/23603
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Comedy Central Extra" tvg-logo="[" group-title="Live: EX-Yu",RS: Comedy Central Extra
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Comedy Central Extra" tvg-logo="[" group-title="Live: SRBIA",RS: Comedy Central Extra
 http://admin-mainpanel.club:8080/andrewh/andrewh/13532
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: CRIME & INVESTIGATION" tvg-logo="[" group-title="Live: EX-Yu",RS: CRIME & INVESTIGATION
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: CRIME & INVESTIGATION" tvg-logo="[" group-title="Live: SRBIA",RS: CRIME & INVESTIGATION
 http://admin-mainpanel.club:8080/andrewh/andrewh/13535
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Film Klub" tvg-logo="[" group-title="Live: EX-Yu",RS: Film Klub
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Film Klub" tvg-logo="[" group-title="Live: SRBIA",RS: Film Klub
 http://admin-mainpanel.club:8080/andrewh/andrewh/21417
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Film Klub Extra" tvg-logo="" group-title="Live: EX-Yu",RS: Film Klub Extra
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Film Klub Extra" tvg-logo="" group-title="Live: SRBIA",RS: Film Klub Extra
 http://admin-mainpanel.club:8080/andrewh/andrewh/23614
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Filmbox Extra" tvg-logo="" group-title="Live: EX-Yu",RS: Filmbox Extra
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Filmbox Extra" tvg-logo="" group-title="Live: SRBIA",RS: Filmbox Extra
 http://admin-mainpanel.club:8080/andrewh/andrewh/21416
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Filmbox Plus" tvg-logo="[" group-title="Live: EX-Yu",RS: Filmbox Plus
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Filmbox Plus" tvg-logo="[" group-title="Live: SRBIA",RS: Filmbox Plus
 http://admin-mainpanel.club:8080/andrewh/andrewh/21415
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Food Network" tvg-logo="[" group-title="Live: EX-Yu",RS: Food Network
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Food Network" tvg-logo="[" group-title="Live: SRBIA",RS: Food Network
 http://admin-mainpanel.club:8080/andrewh/andrewh/13542
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: RTV BOGJUNO" tvg-logo="[" group-title="Live: EX-Yu",RS: RTV BOGJUNO
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: RTV BOGJUNO" tvg-logo="[" group-title="Live: SRBIA",RS: RTV BOGJUNO
 http://admin-mainpanel.club:8080/andrewh/andrewh/23621
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: HAPPY PAROVI" tvg-logo="[" group-title="Live: EX-Yu",RS: HAPPY PAROVI
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: HAPPY PAROVI" tvg-logo="[" group-title="Live: SRBIA",RS: HAPPY PAROVI
 http://admin-mainpanel.club:8080/andrewh/andrewh/23596
-#EXTINF:-1 tvg-ID="happytv.rs" tvg-name="RS: Happy TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Happy TV
+#EXTINF:-1 tvg-ID="happytv.rs" tvg-name="RS: Happy TV" tvg-logo="[" group-title="Live: SRBIA",RS: Happy TV
 http://admin-mainpanel.club:8080/andrewh/andrewh/7036
-#EXTINF:-1 tvg-ID="" tvg-name="RS: HBO Adria" tvg-logo="" group-title="Live: EX-Yu",RS: HBO Adria
+#EXTINF:-1 tvg-ID="" tvg-name="RS: HBO Adria" tvg-logo="" group-title="Live: SRBIA",RS: HBO Adria
 http://admin-mainpanel.club:8080/andrewh/andrewh/7736
-#EXTINF:-1 tvg-ID="" tvg-name="RS: History 2" tvg-logo="[""]" group-title="Live: EX-Yu",RS: History 2
+#EXTINF:-1 tvg-ID="" tvg-name="RS: History 2" tvg-logo="[""]" group-title="Live: SRBIA",RS: History 2
 http://admin-mainpanel.club:8080/andrewh/andrewh/13541
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: History Channel" tvg-logo="" group-title="Live: EX-Yu",RS: History Channel
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: History Channel" tvg-logo="" group-title="Live: SRBIA",RS: History Channel
 http://admin-mainpanel.club:8080/andrewh/andrewh/7901
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: HNTV" tvg-logo="[" group-title="Live: EX-Yu",RS: HNTV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: HNTV" tvg-logo="[" group-title="Live: SRBIA",RS: HNTV
 http://admin-mainpanel.club:8080/andrewh/andrewh/13589
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: IDJ TV" tvg-logo="" group-title="Live: EX-Yu",RS: IDJ TV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: IDJ TV" tvg-logo="" group-title="Live: SRBIA",RS: IDJ TV
 http://admin-mainpanel.club:8080/andrewh/andrewh/14152
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Izvorna TV" tvg-logo="" group-title="Live: EX-Yu",RS: Izvorna TV
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Izvorna TV" tvg-logo="" group-title="Live: SRBIA",RS: Izvorna TV
 http://admin-mainpanel.club:8080/andrewh/andrewh/7897
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Jefimija TV" tvg-logo="" group-title="Live: EX-Yu",RS: Jefimija TV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Jefimija TV" tvg-logo="" group-title="Live: SRBIA",RS: Jefimija TV
 http://admin-mainpanel.club:8080/andrewh/andrewh/23605
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Jugotov TV" tvg-logo="" group-title="Live: EX-Yu",RS: Jugotov TV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Jugotov TV" tvg-logo="" group-title="Live: SRBIA",RS: Jugotov TV
 http://admin-mainpanel.club:8080/andrewh/andrewh/7896
-#EXTINF:-1 tvg-ID="kanal6.ba" tvg-name="RS: Kanal 6 HD" tvg-logo="[" group-title="Live: EX-Yu",RS: Kanal 6 HD
+#EXTINF:-1 tvg-ID="kanal6.ba" tvg-name="RS: Kanal 6 HD" tvg-logo="[" group-title="Live: SRBIA",RS: Kanal 6 HD
 http://admin-mainpanel.club:8080/andrewh/andrewh/7038
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: KCN 1" tvg-logo="" group-title="Live: EX-Yu",RS: KCN 1
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: KCN 1" tvg-logo="" group-title="Live: SRBIA",RS: KCN 1
 http://admin-mainpanel.club:8080/andrewh/andrewh/21285
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: KCN 2" tvg-logo="" group-title="Live: EX-Yu",RS: KCN 2
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: KCN 2" tvg-logo="" group-title="Live: SRBIA",RS: KCN 2
 http://admin-mainpanel.club:8080/andrewh/andrewh/21286
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: KCN 3" tvg-logo="" group-title="Live: EX-Yu",RS: KCN 3
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: KCN 3" tvg-logo="" group-title="Live: SRBIA",RS: KCN 3
 http://admin-mainpanel.club:8080/andrewh/andrewh/21287
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Leskovac TV" tvg-logo="" group-title="Live: EX-Yu",RS: Leskovac TV
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Leskovac TV" tvg-logo="" group-title="Live: SRBIA",RS: Leskovac TV
 http://admin-mainpanel.club:8080/andrewh/andrewh/23630
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Mag TV" tvg-logo="" group-title="Live: EX-Yu",RS: Mag TV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Mag TV" tvg-logo="" group-title="Live: SRBIA",RS: Mag TV
 http://admin-mainpanel.club:8080/andrewh/andrewh/23633
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Minimax/Cinemania" tvg-logo="[" group-title="Live: EX-Yu",RS: Minimax/Cinemania
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Minimax/Cinemania" tvg-logo="[" group-title="Live: SRBIA",RS: Minimax/Cinemania
 http://admin-mainpanel.club:8080/andrewh/andrewh/13545
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: N1 SRBIJA" tvg-logo="[" group-title="Live: EX-Yu",RS: N1 SRBIJA
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: N1 SRBIJA" tvg-logo="[" group-title="Live: SRBIA",RS: N1 SRBIJA
 http://admin-mainpanel.club:8080/andrewh/andrewh/7893
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Nasha TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Nasha TV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Nasha TV" tvg-logo="[" group-title="Live: SRBIA",RS: Nasha TV
 http://admin-mainpanel.club:8080/andrewh/andrewh/23634
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Nat Geo Wild HD" tvg-logo="" group-title="Live: EX-Yu",RS: Nat Geo Wild HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Nat Geo Wild HD" tvg-logo="" group-title="Live: SRBIA",RS: Nat Geo Wild HD
 http://admin-mainpanel.club:8080/andrewh/andrewh/7902
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Live: EX-Yu",RS: NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Live: SRBIA",RS: NATIONAL GEOGRAPHIC
 http://admin-mainpanel.club:8080/andrewh/andrewh/7903
-#EXTINF:-1 tvg-ID="nova.rs" tvg-name="RS: Nova HD" tvg-logo="[" group-title="Live: EX-Yu",RS: Nova HD
+#EXTINF:-1 tvg-ID="nova.rs" tvg-name="RS: Nova HD" tvg-logo="[" group-title="Live: SRBIA",RS: Nova HD
 http://admin-mainpanel.club:8080/andrewh/andrewh/7034
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: O 2" tvg-logo="[" group-title="Live: EX-Yu",RS: O 2
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: O 2" tvg-logo="[" group-title="Live: SRBIA",RS: O 2
 http://admin-mainpanel.club:8080/andrewh/andrewh/23597
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: TV Istok" tvg-logo="" group-title="Live: EX-Yu",RS: TV Istok
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: TV Istok" tvg-logo="" group-title="Live: SRBIA",RS: TV Istok
 http://admin-mainpanel.club:8080/andrewh/andrewh/13537
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: OTV Valentino" tvg-logo="" group-title="Live: EX-Yu",RS: OTV Valentino
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: OTV Valentino" tvg-logo="" group-title="Live: SRBIA",RS: OTV Valentino
 http://admin-mainpanel.club:8080/andrewh/andrewh/7895
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: SuperStar HD" tvg-logo="[" group-title="Live: EX-Yu",RS: SuperStar HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: SuperStar HD" tvg-logo="[" group-title="Live: SRBIA",RS: SuperStar HD
 http://admin-mainpanel.club:8080/andrewh/andrewh/13556
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Partizan TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Partizan TV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Partizan TV" tvg-logo="[" group-title="Live: SRBIA",RS: Partizan TV
 http://admin-mainpanel.club:8080/andrewh/andrewh/13587
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Pikaboo" tvg-logo="" group-title="Live: EX-Yu",RS: Pikaboo
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Pikaboo" tvg-logo="" group-title="Live: SRBIA",RS: Pikaboo
 http://admin-mainpanel.club:8080/andrewh/andrewh/23635
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Podrinje TV" tvg-logo="" group-title="Live: EX-Yu",RS: Podrinje TV
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Podrinje TV" tvg-logo="" group-title="Live: SRBIA",RS: Podrinje TV
 http://admin-mainpanel.club:8080/andrewh/andrewh/54592
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: PRVA KICK" tvg-logo="[" group-title="Live: EX-Yu",RS: PRVA KICK
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: PRVA KICK" tvg-logo="[" group-title="Live: SRBIA",RS: PRVA KICK
 http://admin-mainpanel.club:8080/andrewh/andrewh/23599
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Prva MAX" tvg-logo="[" group-title="Live: EX-Yu",RS: Prva MAX
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Prva MAX" tvg-logo="[" group-title="Live: SRBIA",RS: Prva MAX
 http://admin-mainpanel.club:8080/andrewh/andrewh/13557
-#EXTINF:-1 tvg-ID="prvaplus.rs" tvg-name="RS: Prva Plus" tvg-logo="" group-title="Live: EX-Yu",RS: Prva Plus
+#EXTINF:-1 tvg-ID="prvaplus.rs" tvg-name="RS: Prva Plus" tvg-logo="" group-title="Live: SRBIA",RS: Prva Plus
 http://admin-mainpanel.club:8080/andrewh/andrewh/7031
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Prva World" tvg-logo="[" group-title="Live: EX-Yu",RS: Prva World
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Prva World" tvg-logo="[" group-title="Live: SRBIA",RS: Prva World
 http://admin-mainpanel.club:8080/andrewh/andrewh/13558
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Pink HD" tvg-logo="" group-title="Live: EX-Yu",RS: Pink HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Pink HD" tvg-logo="" group-title="Live: SRBIA",RS: Pink HD
 http://admin-mainpanel.club:8080/andrewh/andrewh/45383
-#EXTINF:-1 tvg-ID="pink1.rs" tvg-name="RS: Pink" tvg-logo="" group-title="Live: EX-Yu",RS: Pink
+#EXTINF:-1 tvg-ID="pink1.rs" tvg-name="RS: Pink" tvg-logo="" group-title="Live: SRBIA",RS: Pink
 http://admin-mainpanel.club:8080/andrewh/andrewh/473
-#EXTINF:-1 tvg-ID="pink2.rs" tvg-name="RS: Pink 2" tvg-logo="" group-title="Live: EX-Yu",RS: Pink 2
+#EXTINF:-1 tvg-ID="pink2.rs" tvg-name="RS: Pink 2" tvg-logo="" group-title="Live: SRBIA",RS: Pink 2
 http://admin-mainpanel.club:8080/andrewh/andrewh/472
-#EXTINF:-1 tvg-ID="pink3.rs" tvg-name="RS: Pink 3" tvg-logo="" group-title="Live: EX-Yu",RS: Pink 3
+#EXTINF:-1 tvg-ID="pink3.rs" tvg-name="RS: Pink 3" tvg-logo="" group-title="Live: SRBIA",RS: Pink 3
 http://admin-mainpanel.club:8080/andrewh/andrewh/468
-#EXTINF:-1 tvg-ID="pinkaction.rs" tvg-name="RS: Pink Action" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Action
+#EXTINF:-1 tvg-ID="pinkaction.rs" tvg-name="RS: Pink Action" tvg-logo="" group-title="Live: SRBIA",RS: Pink Action
 http://admin-mainpanel.club:8080/andrewh/andrewh/470
-#EXTINF:-1 tvg-ID="pinkbh.rs" tvg-name="RS: Pink BH" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink BH
+#EXTINF:-1 tvg-ID="pinkbh.rs" tvg-name="RS: Pink BH" tvg-logo="[" group-title="Live: SRBIA",RS: Pink BH
 http://admin-mainpanel.club:8080/andrewh/andrewh/465
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Pink Bravo" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Bravo
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Pink Bravo" tvg-logo="" group-title="Live: SRBIA",RS: Pink Bravo
 http://admin-mainpanel.club:8080/andrewh/andrewh/42236
-#EXTINF:-1 tvg-ID="pinkclassic.rs" tvg-name="RS: Pink Classic" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Classic
+#EXTINF:-1 tvg-ID="pinkclassic.rs" tvg-name="RS: Pink Classic" tvg-logo="" group-title="Live: SRBIA",RS: Pink Classic
 http://admin-mainpanel.club:8080/andrewh/andrewh/38350
-#EXTINF:-1 tvg-ID="pinkcomedy.rs" tvg-name="RS: Pink Comedy" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Comedy
+#EXTINF:-1 tvg-ID="pinkcomedy.rs" tvg-name="RS: Pink Comedy" tvg-logo="[" group-title="Live: SRBIA",RS: Pink Comedy
 http://admin-mainpanel.club:8080/andrewh/andrewh/471
-#EXTINF:-1 tvg-ID="pinkcrimeandmystery.rs" tvg-name="RS: Pink Crime & Mystery" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Crime & Mystery
+#EXTINF:-1 tvg-ID="pinkcrimeandmystery.rs" tvg-name="RS: Pink Crime & Mystery" tvg-logo="[" group-title="Live: SRBIA",RS: Pink Crime & Mystery
 http://admin-mainpanel.club:8080/andrewh/andrewh/7911
-#EXTINF:-1 tvg-ID="pinkextra.rs" tvg-name="RS: Pink Extra" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Extra
+#EXTINF:-1 tvg-ID="pinkextra.rs" tvg-name="RS: Pink Extra" tvg-logo="[" group-title="Live: SRBIA",RS: Pink Extra
 http://admin-mainpanel.club:8080/andrewh/andrewh/7914
-#EXTINF:-1 tvg-ID="pinkfamily.rs" tvg-name="RS: Pink Family" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Family
+#EXTINF:-1 tvg-ID="pinkfamily.rs" tvg-name="RS: Pink Family" tvg-logo="" group-title="Live: SRBIA",RS: Pink Family
 http://admin-mainpanel.club:8080/andrewh/andrewh/38351
-#EXTINF:-1 tvg-ID="pinkfashion.rs" tvg-name="RS: Pink Fashion" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Fashion
+#EXTINF:-1 tvg-ID="pinkfashion.rs" tvg-name="RS: Pink Fashion" tvg-logo="" group-title="Live: SRBIA",RS: Pink Fashion
 http://admin-mainpanel.club:8080/andrewh/andrewh/42239
-#EXTINF:-1 tvg-ID="pinkfilm.rs" tvg-name="RS: Pink Film" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Film
+#EXTINF:-1 tvg-ID="pinkfilm.rs" tvg-name="RS: Pink Film" tvg-logo="" group-title="Live: SRBIA",RS: Pink Film
 http://admin-mainpanel.club:8080/andrewh/andrewh/469
-#EXTINF:-1 tvg-ID="pinkfolk1.rs" tvg-name="RS: Pink Folk 1" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Folk 1
+#EXTINF:-1 tvg-ID="pinkfolk1.rs" tvg-name="RS: Pink Folk 1" tvg-logo="" group-title="Live: SRBIA",RS: Pink Folk 1
 http://admin-mainpanel.club:8080/andrewh/andrewh/7906
-#EXTINF:-1 tvg-ID="pinkfolk2.rs" tvg-name="RS: Pink Folk 2" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Folk 2
+#EXTINF:-1 tvg-ID="pinkfolk2.rs" tvg-name="RS: Pink Folk 2" tvg-logo="" group-title="Live: SRBIA",RS: Pink Folk 2
 http://admin-mainpanel.club:8080/andrewh/andrewh/7907
-#EXTINF:-1 tvg-ID="pinkhaha.rs" tvg-name="RS: Pink HAHA" tvg-logo="" group-title="Live: EX-Yu",RS: Pink HAHA
+#EXTINF:-1 tvg-ID="pinkhaha.rs" tvg-name="RS: Pink HAHA" tvg-logo="" group-title="Live: SRBIA",RS: Pink HAHA
 http://admin-mainpanel.club:8080/andrewh/andrewh/38352
-#EXTINF:-1 tvg-ID="pinkhits.rs" tvg-name="RS: Pink Hits" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Hits
+#EXTINF:-1 tvg-ID="pinkhits.rs" tvg-name="RS: Pink Hits" tvg-logo="" group-title="Live: SRBIA",RS: Pink Hits
 http://admin-mainpanel.club:8080/andrewh/andrewh/42238
-#EXTINF:-1 tvg-ID="pinkhits2.rs" tvg-name="RS: Pink Hits 2" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Hits 2
+#EXTINF:-1 tvg-ID="pinkhits2.rs" tvg-name="RS: Pink Hits 2" tvg-logo="" group-title="Live: SRBIA",RS: Pink Hits 2
 http://admin-mainpanel.club:8080/andrewh/andrewh/38356
-#EXTINF:-1 tvg-ID="pinkhorror.rs" tvg-name="RS: Pink Horror" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Horror
+#EXTINF:-1 tvg-ID="pinkhorror.rs" tvg-name="RS: Pink Horror" tvg-logo="" group-title="Live: SRBIA",RS: Pink Horror
 http://admin-mainpanel.club:8080/andrewh/andrewh/467
-#EXTINF:-1 tvg-ID="pinkkids.rs" tvg-name="RS: Pink Kids" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Kids
+#EXTINF:-1 tvg-ID="pinkkids.rs" tvg-name="RS: Pink Kids" tvg-logo="[" group-title="Live: SRBIA",RS: Pink Kids
 http://admin-mainpanel.club:8080/andrewh/andrewh/7909
-#EXTINF:-1 tvg-ID="pinkkoncert.rs" tvg-name="RS: Pink Koncert" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Koncert
+#EXTINF:-1 tvg-ID="pinkkoncert.rs" tvg-name="RS: Pink Koncert" tvg-logo="" group-title="Live: SRBIA",RS: Pink Koncert
 http://admin-mainpanel.club:8080/andrewh/andrewh/38355
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Pink Kuvar" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Kuvar
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Pink Kuvar" tvg-logo="" group-title="Live: SRBIA",RS: Pink Kuvar
 http://admin-mainpanel.club:8080/andrewh/andrewh/7913
-#EXTINF:-1 tvg-ID="pinklol.rs" tvg-name="RS: Pink LOL" tvg-logo="" group-title="Live: EX-Yu",RS: Pink LOL
+#EXTINF:-1 tvg-ID="pinklol.rs" tvg-name="RS: Pink LOL" tvg-logo="" group-title="Live: SRBIA",RS: Pink LOL
 http://admin-mainpanel.club:8080/andrewh/andrewh/38353
-#EXTINF:-1 tvg-ID="pinkmovies.rs" tvg-name="RS: Pink Movies" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Movies
+#EXTINF:-1 tvg-ID="pinkmovies.rs" tvg-name="RS: Pink Movies" tvg-logo="[" group-title="Live: SRBIA",RS: Pink Movies
 http://admin-mainpanel.club:8080/andrewh/andrewh/7910
-#EXTINF:-1 tvg-ID="pinkmusic.rs" tvg-name="RS: Pink Music" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Music
+#EXTINF:-1 tvg-ID="pinkmusic.rs" tvg-name="RS: Pink Music" tvg-logo="[" group-title="Live: SRBIA",RS: Pink Music
 http://admin-mainpanel.club:8080/andrewh/andrewh/7905
 #EXTINF:-1 tvg-ID="pinkmusic2.rs" tvg-name="RS: Pink Music 2" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Music 2
 http://admin-mainpanel.club:8080/andrewh/andrewh/42240
@@ -677,8 +673,6 @@ http://admin-mainpanel.club:8080/andrewh/andrewh/23601
 http://admin-mainpanel.club:8080/andrewh/andrewh/41488
 #EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Zadruga Live" tvg-logo="[" group-title="Live: EX-Yu",RS: Zadruga Live
 http://admin-mainpanel.club:8080/andrewh/andrewh/31448
-#EXTINF:-1 tvg-id="" tvg-name="------|hrvatska|------" tvg-logo="" group-title="hrvatska",------|hrvatska|------
-http://mu02.v2iptv.com:8880/test64/687y7y733/49326
 #EXTINF:-1 tvg-ID="htv1.hr" tvg-name="CRO: HRT 1" tvg-logo="[" group-title="Live: EX-Yu",CRO: HRT 1
 http://admin-mainpanel.club:8080/andrewh/andrewh/1033
 #EXTINF:-1 tvg-ID="htv1.hr" tvg-name="CRO: HRT 1 FHD" tvg-logo="[" group-title="Live: EX-Yu",CRO: HRT 1 FHD
