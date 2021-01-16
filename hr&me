@@ -2283,3 +2283,29 @@ http://admin-mainpanel.club:8080/Titi/Titi/26101
 http://admin-mainpanel.club:8080/Titi/Titi/26102
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Dazn Seria A 1 HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Dazn Seria A 1 HD
 http://admin-mainpanel.club:8080/Titi/Titi/26103
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sport TV1" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV1
+http://admin-mainpanel.club:8080/Titi/Titi/6494
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: Sport TV2" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV2
+http://admin-mainpanel.club:8080/Titi/Titi/6495
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: Sport TV3" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV3
+http://admin-mainpanel.club:8080/Titi/Titi/6496
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sport TV4" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV4
+http://admin-mainpanel.club:8080/Titi/Titi/6497
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sport TV5" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV5
+http://admin-mainpanel.club:8080/Titi/Titi/6498
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Sport TV+" tvg-logo="" group-title="Live: Portugal",PT: Sport TV+
+http://admin-mainpanel.club:8080/Titi/Titi/42099
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 1 FHD
+http://admin-mainpanel.club:8080/Titi/Titi/16056
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 2 FHD
+http://admin-mainpanel.club:8080/Titi/Titi/16055
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 3 FHD
+http://admin-mainpanel.club:8080/Titi/Titi/16054
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 4 FHD
+http://admin-mainpanel.club:8080/Titi/Titi/16053
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 5 FHD
+http://admin-mainpanel.club:8080/Titi/Titi/16052
+#EXTINF:-1 tvg-ID="sporttvplus.pt" tvg-name="PT: SPORT TV+FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV+FHD
+http://admin-mainpanel.club:8080/Titi/Titi/16057
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Sport TV NBA HD" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV NBA HD
+http://admin-mainpanel.club:8080/Titi/Titi/4483
