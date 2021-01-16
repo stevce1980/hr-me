@@ -2309,3 +2309,607 @@ http://admin-mainpanel.club:8080/Titi/Titi/16052
 http://admin-mainpanel.club:8080/Titi/Titi/16057
 #EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Sport TV NBA HD" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV NBA HD
 http://admin-mainpanel.club:8080/Titi/Titi/4483
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: Zadruga Uživo 1" tvg-logo="" group-title="Live: EX-Yu",VIP RS: Zadruga Uživo 1
+http://admin-mainpanel.club:8080/test/test/33669
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: Zadruga Uživo 2" tvg-logo="" group-title="Live: EX-Yu",VIP RS: Zadruga Uživo 2
+http://admin-mainpanel.club:8080/test/test/33670
+#EXTINF:-1 tvg-ID="" tvg-name="VIP RS: Zadruga Uživo 3" tvg-logo="" group-title="Live: EX-Yu",VIP RS: Zadruga Uživo 3
+http://admin-mainpanel.club:8080/test/test/33671
+#EXTINF:-1 tvg-ID="" tvg-name="VIP RS: Zadruga Uživo 4" tvg-logo="" group-title="Live: EX-Yu",VIP RS: Zadruga Uživo 4
+http://admin-mainpanel.club:8080/test/test/33672
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BH: Nova Sport FHD" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Nova Sport FHD
+http://admin-mainpanel.club:8080/test/test/34653
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BH: Nova Sport HD" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Nova Sport HD
+http://admin-mainpanel.club:8080/test/test/34562
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Balkanska" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Balkanska
+http://admin-mainpanel.club:8080/test/test/42666
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Bosnjacka" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Bosnjacka
+http://admin-mainpanel.club:8080/test/test/42665
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Cinema" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Cinema
+http://admin-mainpanel.club:8080/test/test/42664
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Cinema Plus" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Cinema Plus
+http://admin-mainpanel.club:8080/test/test/42663
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Crnogorska" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Crnogorska
+http://admin-mainpanel.club:8080/test/test/42662
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Exclusive" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Exclusive
+http://admin-mainpanel.club:8080/test/test/42661
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Islamska" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Islamska
+http://admin-mainpanel.club:8080/test/test/42660
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Muzicka" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Muzicka
+http://admin-mainpanel.club:8080/test/test/42659
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Nasheed" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Nasheed
+http://admin-mainpanel.club:8080/test/test/42658
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Plus" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Plus
+http://admin-mainpanel.club:8080/test/test/42657
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra S. Makedonska" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra S. Makedonska
+http://admin-mainpanel.club:8080/test/test/42656
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Sevdah" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Sevdah
+http://admin-mainpanel.club:8080/test/test/42655
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Sportska" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Sportska
+http://admin-mainpanel.club:8080/test/test/42654
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Srpska" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Srpska
+http://admin-mainpanel.club:8080/test/test/42653
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Svadba" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Svadba
+http://admin-mainpanel.club:8080/test/test/42652
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Travel" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Travel
+http://admin-mainpanel.club:8080/test/test/42651
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra World Music" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra World Music
+http://admin-mainpanel.club:8080/test/test/42650
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: ARENA SPORT FHD 1" tvg-logo="[" group-title="Live: EX-Yu",VIP RS: ARENA SPORT FHD 1
+http://admin-mainpanel.club:8080/test/test/31093
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: ARENA SPORT FHD 2" tvg-logo="[" group-title="Live: EX-Yu",VIP RS: ARENA SPORT FHD 2
+http://admin-mainpanel.club:8080/test/test/31094
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: ARENA SPORT FHD 3" tvg-logo="[" group-title="Live: EX-Yu",VIP RS: ARENA SPORT FHD 3
+http://admin-mainpanel.club:8080/test/test/31095
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: ARENA SPORT FHD 4" tvg-logo="[" group-title="Live: EX-Yu",VIP RS: ARENA SPORT FHD 4
+http://admin-mainpanel.club:8080/test/test/31096
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: ARENA SPORT FHD 5" tvg-logo="[" group-title="Live: EX-Yu",VIP RS: ARENA SPORT FHD 5
+http://admin-mainpanel.club:8080/test/test/31097
+#EXTINF:-1 tvg-ID="arenasport1.hr" tvg-name="VIP CRO: ARENA SPORT FHD 1" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: ARENA SPORT FHD 1
+http://admin-mainpanel.club:8080/test/test/20644
+#EXTINF:-1 tvg-ID="arenasport2.hr" tvg-name="VIP CRO: ARENA SPORT FHD 2" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: ARENA SPORT FHD 2
+http://admin-mainpanel.club:8080/test/test/20643
+#EXTINF:-1 tvg-ID="arenasport3.hr" tvg-name="VIP CRO: ARENA SPORT FHD 3" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: ARENA SPORT FHD 3
+http://admin-mainpanel.club:8080/test/test/20642
+#EXTINF:-1 tvg-ID="arenasport4.hr" tvg-name="VIP CRO: ARENA SPORT FHD 4" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: ARENA SPORT FHD 4
+http://admin-mainpanel.club:8080/test/test/20641
+#EXTINF:-1 tvg-ID="arenasport5.hr" tvg-name="VIP CRO: ARENA SPORT FHD 5" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: ARENA SPORT FHD 5
+http://admin-mainpanel.club:8080/test/test/20640
+#EXTINF:-1 tvg-ID="arenasport6.hr" tvg-name="VIP CRO: ARENA SPORT FHD 6" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: ARENA SPORT FHD 6
+http://admin-mainpanel.club:8080/test/test/20639
+#EXTINF:-1 tvg-ID="planetsport1.ht" tvg-name="VIP CRO: PLANET SPORT 1 HD" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: PLANET SPORT 1 HD
+http://admin-mainpanel.club:8080/test/test/19187
+#EXTINF:-1 tvg-ID="planetsport2.hr" tvg-name="VIP CRO: PLANET SPORT 2 HD" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: PLANET SPORT 2 HD
+http://admin-mainpanel.club:8080/test/test/19188
+#EXTINF:-1 tvg-ID="planetsport3.hr" tvg-name="VIP CRO: PLANET SPORT 3 HD" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: PLANET SPORT 3 HD
+http://admin-mainpanel.club:8080/test/test/19189
+#EXTINF:-1 tvg-ID="sportklub1.hr" tvg-name="VIP CRO: SPORT KLUB 1 FHD" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 1 FHD
+http://admin-mainpanel.club:8080/test/test/20654
+#EXTINF:-1 tvg-ID="sportklub2.hr" tvg-name="VIP CRO: SPORT KLUB 2 FHD" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 2 FHD
+http://admin-mainpanel.club:8080/test/test/20653
+#EXTINF:-1 tvg-ID="sportklub3.hr" tvg-name="VIP CRO: SPORT KLUB 3 FHD" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 3 FHD
+http://admin-mainpanel.club:8080/test/test/20652
+#EXTINF:-1 tvg-ID="sportklub4.hr" tvg-name="VIP CRO: SPORT KLUB 4" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 4
+http://admin-mainpanel.club:8080/test/test/20651
+#EXTINF:-1 tvg-ID="sportklub5.hr" tvg-name="VIP CRO: SPORT KLUB 5" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 5
+http://admin-mainpanel.club:8080/test/test/20650
+#EXTINF:-1 tvg-ID="sportklub6.hr" tvg-name="VIP CRO: SPORT KLUB 6" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 6
+http://admin-mainpanel.club:8080/test/test/20649
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: SPORT KLUB 7" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 7
+http://admin-mainpanel.club:8080/test/test/20648
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: SPORT KLUB 8" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 8
+http://admin-mainpanel.club:8080/test/test/20647
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: SPORT KLUB 9" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 9
+http://admin-mainpanel.club:8080/test/test/20646
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: SPORT KLUB 10" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 10
+http://admin-mainpanel.club:8080/test/test/20645
+#EXTINF:-1 tvg-ID="" tvg-name="==== Slovenia ====" tvg-logo="" group-title="",==== Slovenia ====
+http://admin-mainpanel.club:8080/test/test/4018
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORT TV 1 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORT TV 1 HD
+http://admin-mainpanel.club:8080/test/test/9298
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORT TV 2 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORT TV 2 HD
+http://admin-mainpanel.club:8080/test/test/9297
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORT TV 3 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORT TV 3 HD
+http://admin-mainpanel.club:8080/test/test/9296
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB 1" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB 1
+http://admin-mainpanel.club:8080/test/test/9295
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB 2" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB 2
+http://admin-mainpanel.club:8080/test/test/9294
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB 3" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB 3
+http://admin-mainpanel.club:8080/test/test/9293
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB 4" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB 4
+http://admin-mainpanel.club:8080/test/test/9299
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB 5" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB 5
+http://admin-mainpanel.club:8080/test/test/9290
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB 6" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB 6
+http://admin-mainpanel.club:8080/test/test/9289
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB GOLF" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB GOLF
+http://admin-mainpanel.club:8080/test/test/19309
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SLO 1 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SLO 1 HD
+http://admin-mainpanel.club:8080/test/test/9314
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SLO 2 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SLO 2 HD
+http://admin-mainpanel.club:8080/test/test/9313
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SLO 3" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SLO 3
+http://admin-mainpanel.club:8080/test/test/9287
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: TV3 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: TV3 HD
+http://admin-mainpanel.club:8080/test/test/19198
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: POP TV HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: POP TV HD
+http://admin-mainpanel.club:8080/test/test/9312
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: POP BRIO HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: POP BRIO HD
+http://admin-mainpanel.club:8080/test/test/9310
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: POP KINO HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: POP KINO HD
+http://admin-mainpanel.club:8080/test/test/9311
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: POP OTO HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: POP OTO HD
+http://admin-mainpanel.club:8080/test/test/9309
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: KANAL A HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: KANAL A HD
+http://admin-mainpanel.club:8080/test/test/9308
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: PLANET TV HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: PLANET TV HD
+http://admin-mainpanel.club:8080/test/test/9307
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: PLANET 2 TV" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: PLANET 2 TV
+http://admin-mainpanel.club:8080/test/test/9286
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: PLANET PLUS HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: PLANET PLUS HD
+http://admin-mainpanel.club:8080/test/test/32889
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: AMC HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: AMC HD
+http://admin-mainpanel.club:8080/test/test/32846
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: ANIMAL PLANET HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: ANIMAL PLANET HD
+http://admin-mainpanel.club:8080/test/test/32868
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: ARCADIA WORLD HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: ARCADIA WORLD HD
+http://admin-mainpanel.club:8080/test/test/32865
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: AXN" tvg-logo="" group-title="Live: Slovenia",VIP SLO: AXN
+http://admin-mainpanel.club:8080/test/test/32877
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: BABY TV" tvg-logo="" group-title="Live: Slovenia",VIP SLO: BABY TV
+http://admin-mainpanel.club:8080/test/test/32885
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: BBC EARTH HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: BBC EARTH HD
+http://admin-mainpanel.club:8080/test/test/32867
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: BK TV" tvg-logo="" group-title="Live: Slovenia",VIP SLO: BK TV
+http://admin-mainpanel.club:8080/test/test/32879
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: CBS REALITY" tvg-logo="" group-title="Live: Slovenia",VIP SLO: CBS REALITY
+http://admin-mainpanel.club:8080/test/test/32874
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: CINESTAR ACTION HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: CINESTAR ACTION HD
+http://admin-mainpanel.club:8080/test/test/32845
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: CINESTAR FANTASY HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: CINESTAR FANTASY HD
+http://admin-mainpanel.club:8080/test/test/32844
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: CINESTAR PREMIERE 1 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: CINESTAR PREMIERE 1 HD
+http://admin-mainpanel.club:8080/test/test/32842
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: CINESTAR PREMIERE 2 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: CINESTAR PREMIERE 2 HD
+http://admin-mainpanel.club:8080/test/test/32843
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: DA VINCI LEARING" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DA VINCI LEARING
+http://admin-mainpanel.club:8080/test/test/32873
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: DISCOVERY CHANNEL" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: DISCOVERY CHANNEL
+http://admin-mainpanel.club:8080/test/test/9278
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: DISCOVERY ID HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DISCOVERY ID HD
+http://admin-mainpanel.club:8080/test/test/32858
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: DISCOVERY SCIENCE HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DISCOVERY SCIENCE HD
+http://admin-mainpanel.club:8080/test/test/32857
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: DISCOVERY SHOWCASE HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DISCOVERY SHOWCASE HD
+http://admin-mainpanel.club:8080/test/test/32856
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: DISCOVERY TURBO XTRA HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DISCOVERY TURBO XTRA HD
+http://admin-mainpanel.club:8080/test/test/32855
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: DISNEY JUNIOR HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DISNEY JUNIOR HD
+http://admin-mainpanel.club:8080/test/test/32888
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: DISNEY XD HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DISNEY XD HD
+http://admin-mainpanel.club:8080/test/test/32887
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: DIVA" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: DIVA
+http://admin-mainpanel.club:8080/test/test/19197
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: EPIC DRAMA HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: EPIC DRAMA HD
+http://admin-mainpanel.club:8080/test/test/32847
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: EUROSPORT 1 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: EUROSPORT 1 HD
+http://admin-mainpanel.club:8080/test/test/32850
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: EUROSPORT 2 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: EUROSPORT 2 HD
+http://admin-mainpanel.club:8080/test/test/32851
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: FASHION HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: FASHION HD
+http://admin-mainpanel.club:8080/test/test/32872
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: FIGHT NETWORK HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: FIGHT NETWORK HD
+http://admin-mainpanel.club:8080/test/test/32854
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: FOX Crime" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: FOX Crime
+http://admin-mainpanel.club:8080/test/test/19196
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: FOX HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: FOX HD
+http://admin-mainpanel.club:8080/test/test/32848
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: FOX LIFE HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: FOX LIFE HD
+http://admin-mainpanel.club:8080/test/test/32849
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: FOX Movies" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: FOX Movies
+http://admin-mainpanel.club:8080/test/test/9292
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: GOLD TV" tvg-logo="" group-title="Live: Slovenia",VIP SLO: GOLD TV
+http://admin-mainpanel.club:8080/test/test/32878
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: GTV" tvg-logo="" group-title="Live: Slovenia",VIP SLO: GTV
+http://admin-mainpanel.club:8080/test/test/32882
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: HBO" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: HBO
+http://admin-mainpanel.club:8080/test/test/9291
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: HBO 2 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: HBO 2 HD
+http://admin-mainpanel.club:8080/test/test/32840
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: HBO 3 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: HBO 3 HD
+http://admin-mainpanel.club:8080/test/test/32841
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: HISTORY CHANNEL 2 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: HISTORY CHANNEL 2 HD
+http://admin-mainpanel.club:8080/test/test/32862
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: HISTORY CHANNEL HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: HISTORY CHANNEL HD
+http://admin-mainpanel.club:8080/test/test/32861
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: JIM JAM" tvg-logo="" group-title="Live: Slovenia",VIP SLO: JIM JAM
+http://admin-mainpanel.club:8080/test/test/32886
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: MINIMAX" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: MINIMAX
+http://admin-mainpanel.club:8080/test/test/9300
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: MMC HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: MMC HD
+http://admin-mainpanel.club:8080/test/test/32881
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: NATIONAL GEOGRAPHIC HD
+http://admin-mainpanel.club:8080/test/test/32859
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: NATIONAL GEOGRAPHIC WILD HD
+http://admin-mainpanel.club:8080/test/test/32860
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: NICKELODEON" tvg-logo="" group-title="Live: Slovenia",VIP SLO: NICKELODEON
+http://admin-mainpanel.club:8080/test/test/32884
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: NOVA 24 TV" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: NOVA 24 TV
+http://admin-mainpanel.club:8080/test/test/9284
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: PETELIN" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: PETELIN
+http://admin-mainpanel.club:8080/test/test/9288
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: PLANET EARTH HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: PLANET EARTH HD
+http://admin-mainpanel.club:8080/test/test/32866
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: RED BULL HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: RED BULL HD
+http://admin-mainpanel.club:8080/test/test/32852
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SCI-FI" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SCI-FI
+http://admin-mainpanel.club:8080/test/test/9283
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: TRAVEL CHANNEL HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: TRAVEL CHANNEL HD
+http://admin-mainpanel.club:8080/test/test/32863
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: TRAVEL XP HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: TRAVEL XP HD
+http://admin-mainpanel.club:8080/test/test/32864
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: TV 1000" tvg-logo="" group-title="Live: Slovenia",VIP SLO: TV 1000
+http://admin-mainpanel.club:8080/test/test/32875
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: TV MARIBOR" tvg-logo="" group-title="Live: Slovenia",VIP SLO: TV MARIBOR
+http://admin-mainpanel.club:8080/test/test/32880
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: UFC FIGHT PASS HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: UFC FIGHT PASS HD
+http://admin-mainpanel.club:8080/test/test/32853
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: VESELJAK TV" tvg-logo="" group-title="Live: Slovenia",VIP SLO: VESELJAK TV
+http://admin-mainpanel.club:8080/test/test/32883
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: VIASAT EXPLORE" tvg-logo="" group-title="Live: Slovenia",VIP SLO: VIASAT EXPLORE
+http://admin-mainpanel.club:8080/test/test/32870
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: VIASAT HISTORY" tvg-logo="" group-title="Live: Slovenia",VIP SLO: VIASAT HISTORY
+http://admin-mainpanel.club:8080/test/test/32869
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: VIASAT NATURE" tvg-logo="" group-title="Live: Slovenia",VIP SLO: VIASAT NATURE
+http://admin-mainpanel.club:8080/test/test/32871
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: VOYO" tvg-logo="" group-title="Live: Slovenia",VIP SLO: VOYO
+http://admin-mainpanel.club:8080/test/test/32876
+#EXTINF:-1 tvg-ID="skysport1.de" tvg-name="VIP DE: Sky Sport 1 FHD" tvg-logo="[" group-title="Live: Germany & Austria",VIP DE: Sky Sport 1 FHD
+http://admin-mainpanel.club:8080/test/test/31051
+#EXTINF:-1 tvg-ID="skysport1.de" tvg-name="VIP DE: Sky Sport 1 HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport 1 HD
+http://admin-mainpanel.club:8080/test/test/14127
+#EXTINF:-1 tvg-ID="skysport2.de" tvg-name="VIP DE: Sky Sport 2 FHD" tvg-logo="[" group-title="Live: Germany & Austria",VIP DE: Sky Sport 2 FHD
+http://admin-mainpanel.club:8080/test/test/31061
+#EXTINF:-1 tvg-ID="skysport2.de" tvg-name="VIP DE: Sky Sport 2 HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport 2 HD
+http://admin-mainpanel.club:8080/test/test/14126
+#EXTINF:-1 tvg-ID="skysport3.de" tvg-name="VIP DE: Sky Sport 3 HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport 3 HD
+http://admin-mainpanel.club:8080/test/test/14125
+#EXTINF:-1 tvg-ID="skysport4.de" tvg-name="VIP DE: Sky Sport 4 HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport 4 HD
+http://admin-mainpanel.club:8080/test/test/14124
+#EXTINF:-1 tvg-ID="skysport5.de" tvg-name="VIP DE: Sky Sport 5 HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport 5 HD
+http://admin-mainpanel.club:8080/test/test/14123
+#EXTINF:-1 tvg-ID="skysport6.de" tvg-name="VIP DE: Sky Sport 6 HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport 6 HD
+http://admin-mainpanel.club:8080/test/test/14122
+#EXTINF:-1 tvg-ID="skysport7.de" tvg-name="VIP DE: Sky Sport 7 HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport 7 HD
+http://admin-mainpanel.club:8080/test/test/14121
+#EXTINF:-1 tvg-ID="skysport8.de" tvg-name="VIP DE: Sky Sport 8 HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport 8 HD
+http://admin-mainpanel.club:8080/test/test/14120
+#EXTINF:-1 tvg-ID="skysport9.de" tvg-name="VIP DE: Sky Sport 9 HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport 9 HD
+http://admin-mainpanel.club:8080/test/test/14119
+#EXTINF:-1 tvg-ID="skysport10.de" tvg-name="VIP DE: Sky Sport 10 HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport 10 HD
+http://admin-mainpanel.club:8080/test/test/14118
+#EXTINF:-1 tvg-ID="skysport11.de" tvg-name="VIP DE: Sky Sport 11 HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport 11 HD
+http://admin-mainpanel.club:8080/test/test/14117
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AT: Sky Sports Austria 1 FHD" tvg-logo="" group-title="Live: Germany & Austria",VIP AT: Sky Sports Austria 1 FHD
+http://admin-mainpanel.club:8080/test/test/36107
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AT: Sky Sports Austria 2 FHD ( Games only )" tvg-logo="" group-title="Live: Germany & Austria",VIP AT: Sky Sports Austria 2 FHD ( Games only )
+http://admin-mainpanel.club:8080/test/test/36108
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AT: Sky Sports Austria 3 FHD ( Games only )" tvg-logo="" group-title="Live: Germany & Austria",VIP AT: Sky Sports Austria 3 FHD ( Games only )
+http://admin-mainpanel.club:8080/test/test/36109
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AT: Sky Sports Austria 4 FHD ( Games only )" tvg-logo="" group-title="Live: Germany & Austria",VIP AT: Sky Sports Austria 4 FHD ( Games only )
+http://admin-mainpanel.club:8080/test/test/36110
+#EXTINF:-1 tvg-ID="skybundesliga1.de" tvg-name="VIP DE: Sky Sport Bundesliga 1 FHD" tvg-logo="[" group-title="Live: Germany & Austria",VIP DE: Sky Sport Bundesliga 1 FHD
+http://admin-mainpanel.club:8080/test/test/31062
+#EXTINF:-1 tvg-ID="skybundesliga1.de" tvg-name="VIP DE: Sky Sport Bundesliga 1 HD" tvg-logo="[" group-title="Live: Germany & Austria",VIP DE: Sky Sport Bundesliga 1 HD
+http://admin-mainpanel.club:8080/test/test/11475
+#EXTINF:-1 tvg-ID="skybundesliga2.de" tvg-name="VIP DE: Sky Sport Bundesliga 2 HD(Games only )" tvg-logo="[" group-title="Live: Germany & Austria",VIP DE: Sky Sport Bundesliga 2 HD(Games only )
+http://admin-mainpanel.club:8080/test/test/9182
+#EXTINF:-1 tvg-ID="skybundesliga3.de" tvg-name="VIP DE: Sky Sport Bundesliga 3 HD(Games only )" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport Bundesliga 3 HD(Games only )
+http://admin-mainpanel.club:8080/test/test/9181
+#EXTINF:-1 tvg-ID="skybundesliga4.de" tvg-name="VIP DE: Sky Sport Bundesliga 4 HD(Games only )" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport Bundesliga 4 HD(Games only )
+http://admin-mainpanel.club:8080/test/test/9180
+#EXTINF:-1 tvg-ID="skybundesliga5.de" tvg-name="VIP DE: Sky Sport Bundesliga 5 HD(Games only )" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport Bundesliga 5 HD(Games only )
+http://admin-mainpanel.club:8080/test/test/9179
+#EXTINF:-1 tvg-ID="skybundesliga6.de" tvg-name="VIP DE: Sky Sport Bundesliga 6 HD(Games only )" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport Bundesliga 6 HD(Games only )
+http://admin-mainpanel.club:8080/test/test/9178
+#EXTINF:-1 tvg-ID="skybundesliga7.de" tvg-name="VIP DE: Sky Sport Bundesliga 7 HD(Games only )" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport Bundesliga 7 HD(Games only )
+http://admin-mainpanel.club:8080/test/test/9177
+#EXTINF:-1 tvg-ID="skybundesliga8.de" tvg-name="VIP DE: Sky Sport Bundesliga 8 HD(Games only )" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport Bundesliga 8 HD(Games only )
+http://admin-mainpanel.club:8080/test/test/9176
+#EXTINF:-1 tvg-ID="skybundesliga9.de" tvg-name="VIP DE: Sky Sport Bundesliga 9 HD(Games only )" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport Bundesliga 9 HD(Games only )
+http://admin-mainpanel.club:8080/test/test/9175
+#EXTINF:-1 tvg-ID="skybundesliga10.de" tvg-name="VIP DE: Sky Sport Bundesliga 10 HD(Games only )" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Sky Sport Bundesliga 10 HD(Games only )
+http://admin-mainpanel.club:8080/test/test/9174
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: TELEKOM Eishockey 1HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: TELEKOM Eishockey 1HD
+http://admin-mainpanel.club:8080/test/test/19185
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: TELEKOM Eishockey 2HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: TELEKOM Eishockey 2HD
+http://admin-mainpanel.club:8080/test/test/19186
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: TELEKOM FUSSBALL 1HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: TELEKOM FUSSBALL 1HD
+http://admin-mainpanel.club:8080/test/test/19178
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: TELEKOM FUSSBALL 2HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: TELEKOM FUSSBALL 2HD
+http://admin-mainpanel.club:8080/test/test/19179
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: TELEKOM FUSSBALL 3HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: TELEKOM FUSSBALL 3HD
+http://admin-mainpanel.club:8080/test/test/19180
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: TELEKOM FUSSBALL 4HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: TELEKOM FUSSBALL 4HD
+http://admin-mainpanel.club:8080/test/test/19181
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: TELEKOM FUSSBALL 5HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: TELEKOM FUSSBALL 5HD
+http://admin-mainpanel.club:8080/test/test/19183
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: TELEKOM FUSSBALL 6HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: TELEKOM FUSSBALL 6HD
+http://admin-mainpanel.club:8080/test/test/19184
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: Telekom Magenta 1 HD [Bundesliga 3]" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Telekom Magenta 1 HD [Bundesliga 3]
+http://admin-mainpanel.club:8080/test/test/35314
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: Telekom Magenta 2 HD [Bundesliga 3]" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Telekom Magenta 2 HD [Bundesliga 3]
+http://admin-mainpanel.club:8080/test/test/35315
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: Telekom Magenta 3 HD [Bundesliga 3]" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Telekom Magenta 3 HD [Bundesliga 3]
+http://admin-mainpanel.club:8080/test/test/35316
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: Telekom Magenta 4 HD [Bundesliga 3]" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Telekom Magenta 4 HD [Bundesliga 3]
+http://admin-mainpanel.club:8080/test/test/35317
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: Telekom Magenta 5 HD [Bundesliga 3]" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Telekom Magenta 5 HD [Bundesliga 3]
+http://admin-mainpanel.club:8080/test/test/35318
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: Telekom Magenta 6 HD [Bundesliga 3]" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Telekom Magenta 6 HD [Bundesliga 3]
+http://admin-mainpanel.club:8080/test/test/35319
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: Telekom Magenta 7 HD [Bundesliga 3]" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Telekom Magenta 7 HD [Bundesliga 3]
+http://admin-mainpanel.club:8080/test/test/35320
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: Telekom Magenta 8 HD [Bundesliga 3]" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: Telekom Magenta 8 HD [Bundesliga 3]
+http://admin-mainpanel.club:8080/test/test/35321
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: TELEKOM Eishockey 3HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: TELEKOM Eishockey 3HD
+http://admin-mainpanel.club:8080/test/test/31222
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: TELEKOM Eishockey 4HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: TELEKOM Eishockey 4HD
+http://admin-mainpanel.club:8080/test/test/31221
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: TELEKOM Eishockey 5HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: TELEKOM Eishockey 5HD
+http://admin-mainpanel.club:8080/test/test/31220
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: TELEKOM Eishockey 6HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: TELEKOM Eishockey 6HD
+http://admin-mainpanel.club:8080/test/test/31219
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: TELEKOM Eishockey 7HD" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: TELEKOM Eishockey 7HD
+http://admin-mainpanel.club:8080/test/test/31218
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: BBL Sport 1 (ONLY ON MATCHDAY)" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: BBL Sport 1 (ONLY ON MATCHDAY)
+http://admin-mainpanel.club:8080/test/test/25793
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: BBL Sport 2 (ONLY ON MATCHDAY)" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: BBL Sport 2 (ONLY ON MATCHDAY)
+http://admin-mainpanel.club:8080/test/test/25792
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: BBL Sport 3 (ONLY ON MATCHDAY)" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: BBL Sport 3 (ONLY ON MATCHDAY)
+http://admin-mainpanel.club:8080/test/test/25791
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: BBL Sport 4 (ONLY ON MATCHDAY)" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: BBL Sport 4 (ONLY ON MATCHDAY)
+http://admin-mainpanel.club:8080/test/test/25790
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: DEL Sport 1 (ONLY ON MATCHDAY)" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: DEL Sport 1 (ONLY ON MATCHDAY)
+http://admin-mainpanel.club:8080/test/test/25789
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: DEL Sport 2 (ONLY ON MATCHDAY)" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: DEL Sport 2 (ONLY ON MATCHDAY)
+http://admin-mainpanel.club:8080/test/test/25788
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: DEL Sport 3 (ONLY ON MATCHDAY)" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: DEL Sport 3 (ONLY ON MATCHDAY)
+http://admin-mainpanel.club:8080/test/test/25787
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: DEL Sport 4 (ONLY ON MATCHDAY)" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: DEL Sport 4 (ONLY ON MATCHDAY)
+http://admin-mainpanel.club:8080/test/test/25786
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: DEL Sport 5 (ONLY ON MATCHDAY)" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: DEL Sport 5 (ONLY ON MATCHDAY)
+http://admin-mainpanel.club:8080/test/test/25785
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: DEL Sport 6 (ONLY ON MATCHDAY)" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: DEL Sport 6 (ONLY ON MATCHDAY)
+http://admin-mainpanel.club:8080/test/test/25784
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: DEL Sport 7 (ONLY ON MATCHDAY)" tvg-logo="" group-title="Live: Germany & Austria",VIP DE: DEL Sport 7 (ONLY ON MATCHDAY)
+http://admin-mainpanel.club:8080/test/test/25783
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TeleFoot Stadium UHD 4K" tvg-logo="" group-title="Live: France",VIP FR: TeleFoot Stadium UHD 4K
+http://admin-mainpanel.club:8080/test/test/50954
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TeleFoot Stadium FHD" tvg-logo="" group-title="Live: France",VIP FR: TeleFoot Stadium FHD
+http://admin-mainpanel.club:8080/test/test/50886
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TeleFoot Stadium HD" tvg-logo="[" group-title="Live: France",VIP FR: TeleFoot Stadium HD
+http://admin-mainpanel.club:8080/test/test/19212
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TeleFoot Stadium" tvg-logo="" group-title="Live: France",VIP FR: TeleFoot Stadium
+http://admin-mainpanel.club:8080/test/test/20200
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TeleFoot Stadium 1 HD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: TeleFoot Stadium 1 HD [Live During Events Only]
+http://admin-mainpanel.club:8080/test/test/50956
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TeleFoot Stadium 2 HD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: TeleFoot Stadium 2 HD [Live During Events Only]
+http://admin-mainpanel.club:8080/test/test/50957
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TeleFoot Stadium 3 HD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: TeleFoot Stadium 3 HD [Live During Events Only]
+http://admin-mainpanel.club:8080/test/test/50958
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TeleFoot Stadium 4 HD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: TeleFoot Stadium 4 HD [Live During Events Only]
+http://admin-mainpanel.club:8080/test/test/50959
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TeleFoot Stadium 5 HD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: TeleFoot Stadium 5 HD [Live During Events Only]
+http://admin-mainpanel.club:8080/test/test/50960
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TeleFoot Stadium 6 HD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: TeleFoot Stadium 6 HD [Live During Events Only]
+http://admin-mainpanel.club:8080/test/test/50961
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TeleFoot Stadium 7 HD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: TeleFoot Stadium 7 HD [Live During Events Only]
+http://admin-mainpanel.club:8080/test/test/50962
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TeleFoot Stadium 8 HD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: TeleFoot Stadium 8 HD [Live During Events Only]
+http://admin-mainpanel.club:8080/test/test/50963
+#EXTINF:-1 tvg-ID="beINSport1.fr" tvg-name="VIP FR: BEINSPORT 1 FHD" tvg-logo="[" group-title="Live: France",VIP FR: BEINSPORT 1 FHD
+http://admin-mainpanel.club:8080/test/test/14901
+#EXTINF:-1 tvg-ID="beINSport2.fr" tvg-name="VIP FR: BEINSPORT 2 FHD" tvg-logo="[" group-title="Live: France",VIP FR: BEINSPORT 2 FHD
+http://admin-mainpanel.club:8080/test/test/14902
+#EXTINF:-1 tvg-ID="beINSport3.fr" tvg-name="VIP FR: BEINSPORT 3 FHD" tvg-logo="[" group-title="Live: France",VIP FR: BEINSPORT 3 FHD
+http://admin-mainpanel.club:8080/test/test/14903
+#EXTINF:-1 tvg-ID="BeInSportMax4.fr" tvg-name="VIP FR: BEINSPORT MAX 4 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 4 FHD
+http://admin-mainpanel.club:8080/test/test/23106
+#EXTINF:-1 tvg-ID="BeInSportMax5.fr" tvg-name="VIP FR: BEINSPORT MAX 5 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 5 FHD
+http://admin-mainpanel.club:8080/test/test/23142
+#EXTINF:-1 tvg-ID="BeInSportMax6.fr" tvg-name="VIP FR: BEINSPORT MAX 6 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 6 FHD
+http://admin-mainpanel.club:8080/test/test/23141
+#EXTINF:-1 tvg-ID="BeInSportMax7.fr" tvg-name="VIP FR: BEINSPORT MAX 7 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 7 FHD
+http://admin-mainpanel.club:8080/test/test/23140
+#EXTINF:-1 tvg-ID="BeInSportMax8.fr" tvg-name="VIP FR: BEINSPORT MAX 8 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 8 FHD
+http://admin-mainpanel.club:8080/test/test/23139
+#EXTINF:-1 tvg-ID="BeInSportMax9.fr" tvg-name="VIP FR: BEINSPORT MAX 9 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 9 FHD
+http://admin-mainpanel.club:8080/test/test/23138
+#EXTINF:-1 tvg-ID="BeInSportMax10.fr" tvg-name="VIP FR: BEINSPORT MAX 10 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 10 FHD
+http://admin-mainpanel.club:8080/test/test/23137
+#EXTINF:-1 tvg-ID="RMC Sport 1 FR" tvg-name="VIP FR: RMC SPORT UHD 4K" tvg-logo="" group-title="Live: France",VIP FR: RMC SPORT UHD 4K
+http://admin-mainpanel.club:8080/test/test/29093
+#EXTINF:-1 tvg-ID="RMCSportNews.fr" tvg-name="VIP FR: RMC SPORT News HD" tvg-logo="[" group-title="Live: France",VIP FR: RMC SPORT News HD
+http://admin-mainpanel.club:8080/test/test/19424
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC SPORT 1 FHD" tvg-logo="" group-title="Live: France",VIP FR: RMC SPORT 1 FHD
+http://admin-mainpanel.club:8080/test/test/23126
+#EXTINF:-1 tvg-ID="RMCSport1.fr" tvg-name="VIP FR: RMC SPORT 1 HD" tvg-logo="" group-title="Live: France",VIP FR: RMC SPORT 1 HD
+http://admin-mainpanel.club:8080/test/test/7285
+#EXTINF:-1 tvg-ID="RMCSport2.fr" tvg-name="VIP FR: RMC SPORT 2 FHD" tvg-logo="" group-title="Live: France",VIP FR: RMC SPORT 2 FHD
+http://admin-mainpanel.club:8080/test/test/23125
+#EXTINF:-1 tvg-ID="RMCSport2.fr" tvg-name="VIP FR: RMC SPORT 2 HD" tvg-logo="[" group-title="Live: France",VIP FR: RMC SPORT 2 HD
+http://admin-mainpanel.club:8080/test/test/7286
+#EXTINF:-1 tvg-ID="RMCSport3.fr" tvg-name="VIP FR: RMC SPORT 3 FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC SPORT 3 FHD
+http://admin-mainpanel.club:8080/test/test/23124
+#EXTINF:-1 tvg-ID="RMCSport3.fr" tvg-name="VIP FR: RMC SPORT 3 HD" tvg-logo="[" group-title="Live: France",VIP FR: RMC SPORT 3 HD
+http://admin-mainpanel.club:8080/test/test/7427
+#EXTINF:-1 tvg-ID="RMCSport4.fr" tvg-name="VIP FR: RMC SPORT 4 FHD" tvg-logo="" group-title="Live: France",VIP FR: RMC SPORT 4 FHD
+http://admin-mainpanel.club:8080/test/test/23123
+#EXTINF:-1 tvg-ID="RMCSport4.fr" tvg-name="VIP FR: RMC SPORT 4 HD" tvg-logo="[" group-title="Live: France",VIP FR: RMC SPORT 4 HD
+http://admin-mainpanel.club:8080/test/test/7504
+#EXTINF:-1 tvg-ID="RMCSportAccess1.fr" tvg-name="VIP FR: RMC SPORT Accees 1 HD" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC SPORT Accees 1 HD
+http://admin-mainpanel.club:8080/test/test/19425
+#EXTINF:-1 tvg-ID="RMCSportAccess2.fr" tvg-name="VIP FR: RMC SPORT Accees 2 HD" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC SPORT Accees 2 HD
+http://admin-mainpanel.club:8080/test/test/23795
+#EXTINF:-1 tvg-ID="RMCSportAccess3.fr" tvg-name="VIP FR: RMC SPORT Accees 3 HD" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC SPORT Accees 3 HD
+http://admin-mainpanel.club:8080/test/test/23794
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC Sport 5 HD Live" tvg-logo="[" group-title="Live: France",VIP FR: RMC Sport 5 HD Live
+http://admin-mainpanel.club:8080/test/test/19366
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC Sport 6 HD Live" tvg-logo="[" group-title="Live: France",VIP FR: RMC Sport 6 HD Live
+http://admin-mainpanel.club:8080/test/test/19365
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC Sport 7 HD Live" tvg-logo="[" group-title="Live: France",VIP FR: RMC Sport 7 HD Live
+http://admin-mainpanel.club:8080/test/test/19364
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC Sport 8 HD Live" tvg-logo="[" group-title="Live: France",VIP FR: RMC Sport 8 HD Live
+http://admin-mainpanel.club:8080/test/test/19363
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC Sport 9 HD Live" tvg-logo="[" group-title="Live: France",VIP FR: RMC Sport 9 HD Live
+http://admin-mainpanel.club:8080/test/test/19362
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 10 HD Live" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC Sport 10 HD Live
+http://admin-mainpanel.club:8080/test/test/19361
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 11 HD Live" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC Sport 11 HD Live
+http://admin-mainpanel.club:8080/test/test/19360
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC Sport 12 HD Live" tvg-logo="[" group-title="Live: France",VIP FR: RMC Sport 12 HD Live
+http://admin-mainpanel.club:8080/test/test/19359
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 13 HD Live" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC Sport 13 HD Live
+http://admin-mainpanel.club:8080/test/test/20383
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 14 HD Live" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC Sport 14 HD Live
+http://admin-mainpanel.club:8080/test/test/20384
+#EXTINF:-1 tvg-ID="cosmotecinema4.gr" tvg-name="VIP GR: Cosmote Series HD" tvg-logo="[" group-title="Live: Greece & Cyprus",VIP GR: Cosmote Series HD
+http://admin-mainpanel.club:8080/test/test/22419
+#EXTINF:-1 tvg-ID="cosmotesporthighlight.gr" tvg-name="VIP GR: Cosmote Sports Highlights HD" tvg-logo="[" group-title="Live: Greece & Cyprus",VIP GR: Cosmote Sports Highlights HD
+http://admin-mainpanel.club:8080/test/test/13721
+#EXTINF:-1 tvg-ID="cosmotesport1.gr" tvg-name="VIP GR: Cosmote Sport 1 HD" tvg-logo="[" group-title="Live: Greece & Cyprus",VIP GR: Cosmote Sport 1 HD
+http://admin-mainpanel.club:8080/test/test/22430
+#EXTINF:-1 tvg-ID="cosmotesport2.gr" tvg-name="VIP GR: Cosmote Sport 2 HD" tvg-logo="[" group-title="Live: Greece & Cyprus",VIP GR: Cosmote Sport 2 HD
+http://admin-mainpanel.club:8080/test/test/22429
+#EXTINF:-1 tvg-ID="cosmotesport3.gr" tvg-name="VIP GR: Cosmote Sport 3 HD" tvg-logo="[" group-title="Live: Greece & Cyprus",VIP GR: Cosmote Sport 3 HD
+http://admin-mainpanel.club:8080/test/test/22428
+#EXTINF:-1 tvg-ID="cosmotesport5.gr" tvg-name="VIP GR: Cosmote Sport 4 HD" tvg-logo="[" group-title="Live: Greece & Cyprus",VIP GR: Cosmote Sport 4 HD
+http://admin-mainpanel.club:8080/test/test/22427
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP GR: Cosmote Sport 5 HD" tvg-logo="[" group-title="Live: Greece & Cyprus",VIP GR: Cosmote Sport 5 HD
+http://admin-mainpanel.club:8080/test/test/22426
+#EXTINF:-1 tvg-ID="cosmotesport6.gr" tvg-name="VIP GR: Cosmote Sport 6 HD" tvg-logo="[" group-title="Live: Greece & Cyprus",VIP GR: Cosmote Sport 6 HD
+http://admin-mainpanel.club:8080/test/test/22425
+#EXTINF:-1 tvg-ID="cosmotesport7.gr" tvg-name="VIP GR: Cosmote Sport 7 HD" tvg-logo="[" group-title="Live: Greece & Cyprus",VIP GR: Cosmote Sport 7 HD
+http://admin-mainpanel.club:8080/test/test/22424
+#EXTINF:-1 tvg-ID="cosmotesport8.gr" tvg-name="VIP GR: Cosmote Sport 8 HD" tvg-logo="[" group-title="Live: Greece & Cyprus",VIP GR: Cosmote Sport 8 HD
+http://admin-mainpanel.club:8080/test/test/22423
+#EXTINF:-1 tvg-ID="cosmotesport9hd.gr" tvg-name="VIP GR: Cosmote Sport 9 HD" tvg-logo="[" group-title="Live: Greece & Cyprus",VIP GR: Cosmote Sport 9 HD
+http://admin-mainpanel.club:8080/test/test/27950
+#EXTINF:-1 tvg-ID="cosmotesport1.gr" tvg-name="VIP GR: OTE Sports 1 HD" tvg-logo="" group-title="Live: Greece & Cyprus",VIP GR: OTE Sports 1 HD
+http://admin-mainpanel.club:8080/test/test/12567
+#EXTINF:-1 tvg-ID="cosmotesport2.gr" tvg-name="VIP GR: OTE Sports 2 HD" tvg-logo="" group-title="Live: Greece & Cyprus",VIP GR: OTE Sports 2 HD
+http://admin-mainpanel.club:8080/test/test/12566
+#EXTINF:-1 tvg-ID="cosmotesport3.gr" tvg-name="VIP GR: OTE Sports 3 HD" tvg-logo="" group-title="Live: Greece & Cyprus",VIP GR: OTE Sports 3 HD
+http://admin-mainpanel.club:8080/test/test/12565
+#EXTINF:-1 tvg-ID="cosmotesport4.gr" tvg-name="VIP GR: OTE Sports 4 HD" tvg-logo="" group-title="Live: Greece & Cyprus",VIP GR: OTE Sports 4 HD
+http://admin-mainpanel.club:8080/test/test/12564
+#EXTINF:-1 tvg-ID="cosmotesport5.gr" tvg-name="VIP GR: OTE Sports 5 HD" tvg-logo="" group-title="Live: Greece & Cyprus",VIP GR: OTE Sports 5 HD
+http://admin-mainpanel.club:8080/test/test/12563
+#EXTINF:-1 tvg-ID="cosmotesport6.gr" tvg-name="VIP GR: OTE Sports 6 HD" tvg-logo="" group-title="Live: Greece & Cyprus",VIP GR: OTE Sports 6 HD
+http://admin-mainpanel.club:8080/test/test/12562
+#EXTINF:-1 tvg-ID="cosmotesport7.gr" tvg-name="VIP GR: OTE Sports 7 HD" tvg-logo="" group-title="Live: Greece & Cyprus",VIP GR: OTE Sports 7 HD
+http://admin-mainpanel.club:8080/test/test/12561
+#EXTINF:-1 tvg-ID="cosmotesport8.gr" tvg-name="VIP GR: OTE Sports 8 HD" tvg-logo="" group-title="Live: Greece & Cyprus",VIP GR: OTE Sports 8 HD
+http://admin-mainpanel.club:8080/test/test/12560
+#EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="VIP PT: Eleven Sport 1" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 1
+http://admin-mainpanel.club:8080/test/test/30988
+#EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="VIP PT: Eleven Sport 1 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 1 HD
+http://admin-mainpanel.club:8080/test/test/30987
+#EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="VIP PT: Eleven Sport 1 FHD" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 1 FHD
+http://admin-mainpanel.club:8080/test/test/18818
+#EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="VIP PT: Eleven Sport 2" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 2
+http://admin-mainpanel.club:8080/test/test/30986
+#EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="VIP PT: Eleven Sport 2 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 2 HD
+http://admin-mainpanel.club:8080/test/test/30985
+#EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="VIP PT: Eleven Sport 2 FHD" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 2 FHD
+http://admin-mainpanel.club:8080/test/test/18819
+#EXTINF:-1 tvg-ID="elevensports3.pt" tvg-name="VIP PT: Eleven Sport 3 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 3 HD
+http://admin-mainpanel.club:8080/test/test/30984
+#EXTINF:-1 tvg-ID="elevensports3.pt" tvg-name="VIP PT: Eleven Sport 3 FHD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 3 FHD
+http://admin-mainpanel.club:8080/test/test/18820
+#EXTINF:-1 tvg-ID="elevensports4.pt" tvg-name="VIP PT: Eleven Sport 4 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 4 HD
+http://admin-mainpanel.club:8080/test/test/30983
+#EXTINF:-1 tvg-ID="elevensports4.pt" tvg-name="VIP PT: Eleven Sport 4 FHD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 4 FHD
+http://admin-mainpanel.club:8080/test/test/18821
+#EXTINF:-1 tvg-ID="elevensports5.pt" tvg-name="VIP PT: Eleven Sport 5 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 5 HD
+http://admin-mainpanel.club:8080/test/test/30982
+#EXTINF:-1 tvg-ID="elevensports5.pt" tvg-name="VIP PT: Eleven Sport 5 FHD" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 5 FHD
+http://admin-mainpanel.club:8080/test/test/18822
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP PT: Eleven Sport 6 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 6 HD
+http://admin-mainpanel.club:8080/test/test/30981
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Eleven Sport 6 FHD" tvg-logo="[""]" group-title="Live: Portugal",VIP PT: Eleven Sport 6 FHD
+http://admin-mainpanel.club:8080/test/test/18823
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AL: Art Sport 1 FHD" tvg-logo="[" group-title="Live: Albania",VIP AL: Art Sport 1 FHD
+http://admin-mainpanel.club:8080/test/test/29801
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AL: Art Sport 2 FHD" tvg-logo="[" group-title="Live: Albania",VIP AL: Art Sport 2 FHD
+http://admin-mainpanel.club:8080/test/test/29800
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AL: Art Sport 3 FHD" tvg-logo="[" group-title="Live: Albania",VIP AL: Art Sport 3 FHD
+http://admin-mainpanel.club:8080/test/test/29799
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Blitz FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Blitz FHD
+http://admin-mainpanel.club:8080/test/test/29930
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Grandstand FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Grandstand FHD
+http://admin-mainpanel.club:8080/test/test/29940
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Rugby FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Rugby FHD
+http://admin-mainpanel.club:8080/test/test/29933
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Cricket FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Cricket FHD
+http://admin-mainpanel.club:8080/test/test/29932
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport PSL FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport PSL FHD
+http://admin-mainpanel.club:8080/test/test/29942
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Premier League FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Premier League FHD
+http://admin-mainpanel.club:8080/test/test/29941
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport La Liga FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport La Liga FHD
+http://admin-mainpanel.club:8080/test/test/29943
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Football FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Football FHD
+http://admin-mainpanel.club:8080/test/test/29936
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Play FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Play FHD
+http://admin-mainpanel.club:8080/test/test/29935
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Football Plus FHD" tvg-logo="" group-title="Live: African",VIP ZA: SuperSport Football Plus FHD
+http://admin-mainpanel.club:8080/test/test/33608
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Action FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Action FHD
+http://admin-mainpanel.club:8080/test/test/29937
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Motorsport FHD" tvg-logo="" group-title="Live: African",VIP ZA: SuperSport Motorsport FHD
+http://admin-mainpanel.club:8080/test/test/51416
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Golf FHD" tvg-logo="" group-title="Live: African",VIP ZA: SuperSport Golf FHD
+http://admin-mainpanel.club:8080/test/test/33649
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Tennis FHD" tvg-logo="" group-title="Live: African",VIP ZA: SuperSport Tennis FHD
+http://admin-mainpanel.club:8080/test/test/33610
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Variety 1 FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Variety 1 FHD
+http://admin-mainpanel.club:8080/test/test/29938
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Variety 2 FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Variety 2 FHD
+http://admin-mainpanel.club:8080/test/test/29939
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Variety 3 FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Variety 3 FHD
+http://admin-mainpanel.club:8080/test/test/29934
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Variety 4 FHD" tvg-logo="" group-title="Live: African",VIP ZA: SuperSport Variety 4 FHD
+http://admin-mainpanel.club:8080/test/test/33609
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport MáXimo FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport MáXimo FHD
+http://admin-mainpanel.club:8080/test/test/29929
+#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="VIP TR: Bein Sport 1HD 1080P" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport 1HD 1080P
+http://admin-mainpanel.club:8080/test/test/16292
+#EXTINF:-1 tvg-ID="beinsports2.tr" tvg-name="VIP TR: Bein Sport 2HD 1080P" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport 2HD 1080P
+http://admin-mainpanel.club:8080/test/test/16291
+#EXTINF:-1 tvg-ID="beinsports3.tr" tvg-name="VIP TR: Bein Sport 3HD 1080P" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bein Sport 3HD 1080P
+http://admin-mainpanel.club:8080/test/test/16290
+#EXTINF:-1 tvg-ID="beinsports4.tr" tvg-name="VIP TR: Bein Sport 4HD 1080P" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bein Sport 4HD 1080P
+http://admin-mainpanel.club:8080/test/test/16289
+#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="VIP TR: Bein Sports FHD1" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sports FHD1
+http://admin-mainpanel.club:8080/test/test/25955
+#EXTINF:-1 tvg-ID="beinsports2.tr" tvg-name="VIP TR: Bein Sports FHD2" tvg-logo="[""]" group-title="Live: Türkiye",VIP TR: Bein Sports FHD2
+http://admin-mainpanel.club:8080/test/test/25954
+#EXTINF:-1 tvg-ID="beinsports3.tr" tvg-name="VIP TR: Bein Sports FHD3" tvg-logo="[""]" group-title="Live: Türkiye",VIP TR: Bein Sports FHD3
+http://admin-mainpanel.club:8080/test/test/25953
+#EXTINF:-1 tvg-ID="beinsports4.tr" tvg-name="VIP TR: Bein Sports FHD4" tvg-logo="[""]" group-title="Live: Türkiye",VIP TR: Bein Sports FHD4
+http://admin-mainpanel.club:8080/test/test/25952
+#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="VIP TR: Bein Sport 1HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport 1HD
+http://admin-mainpanel.club:8080/test/test/7333
+#EXTINF:-1 tvg-ID="beinsports2.tr" tvg-name="VIP TR: Bein Sport 2HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport 2HD
+http://admin-mainpanel.club:8080/test/test/7334
+#EXTINF:-1 tvg-ID="beinsports3.tr" tvg-name="VIP TR: Bein Sport 3HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport 3HD
+http://admin-mainpanel.club:8080/test/test/7335
+#EXTINF:-1 tvg-ID="beinsports4.tr" tvg-name="VIP TR: Bein Sport 4HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport 4HD
+http://admin-mainpanel.club:8080/test/test/7336
+#EXTINF:-1 tvg-ID="beinsportsmax1.tr" tvg-name="VIP TR: Bein Sport MAX 1HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport MAX 1HD
+http://admin-mainpanel.club:8080/test/test/9592
+#EXTINF:-1 tvg-ID="beinsportsmax2.tr" tvg-name="VIP TR: Bein Sport MAX 2HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport MAX 2HD
+http://admin-mainpanel.club:8080/test/test/9591
