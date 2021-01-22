@@ -3835,3 +3835,39 @@ http://admin-mainpanel.club:8080/test/test/7336
 http://admin-mainpanel.club:8080/test/test/9592
 #EXTINF:-1 tvg-ID="beinsportsmax2.tr" tvg-name="VIP TR: Bein Sport MAX 2HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport MAX 2HD
 http://admin-mainpanel.club:8080/test/test/9591
+#EXTINF:-1 tvg-ID="elevensports3nl.be" tvg-name="VIP BE: Eleven Pro League 1 FHD" tvg-logo="[" group-title="Live: Belgium",VIP BE: Eleven Pro League 1 FHD
+http://admin-mainpanel.club:8080/test/test/18766
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BE: Eleven Pro League 1 HD" tvg-logo="" group-title="Live: Belgium",VIP BE: Eleven Pro League 1 HD
+http://admin-mainpanel.club:8080/test/test/53164
+#EXTINF:-1 tvg-ID="elevensports3fr.be" tvg-name="VIP BE: Eleven Pro League 2 FHD" tvg-logo="[" group-title="Live: Belgium",VIP BE: Eleven Pro League 2 FHD
+http://admin-mainpanel.club:8080/test/test/18765
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BE: Eleven Pro League 3 FHD" tvg-logo="" group-title="Live: Belgium",VIP BE: Eleven Pro League 3 FHD
+http://admin-mainpanel.club:8080/test/test/51041
+#EXTINF:-1 tvg-ID="elevensports1nl.be" tvg-name="VIP BE: ELEVEN SPORT 1" tvg-logo="[" group-title="Live: Belgium",VIP BE: ELEVEN SPORT 1
+http://admin-mainpanel.club:8080/test/test/18762
+#EXTINF:-1 tvg-ID="elevensports2nl.be" tvg-name="VIP BE: ELEVEN SPORT 2" tvg-logo="[" group-title="Live: Belgium",VIP BE: ELEVEN SPORT 2
+http://admin-mainpanel.club:8080/test/test/18761
+#EXTINF:-1 tvg-ID="elevensports1fr.be" tvg-name="VIP BE: ELEVEN SPORT 1 FR" tvg-logo="[" group-title="Live: Belgium",VIP BE: ELEVEN SPORT 1 FR
+http://admin-mainpanel.club:8080/test/test/16166
+#EXTINF:-1 tvg-ID="elevensports2fr.be" tvg-name="VIP BE: ELEVEN SPORT 2 FR" tvg-logo="[" group-title="Live: Belgium",VIP BE: ELEVEN SPORT 2 FR
+http://admin-mainpanel.club:8080/test/test/17159
+#EXTINF:-1 tvg-ID="voosport1fr.be" tvg-name="VIP BE: VOO Sports 1HD" tvg-logo="" group-title="Live: Belgium",VIP BE: VOO Sports 1HD
+http://admin-mainpanel.club:8080/test/test/7852
+#EXTINF:-1 tvg-ID="voosport2nl.be" tvg-name="VIP BE: VOO Sports 2HD" tvg-logo="" group-title="Live: Belgium",VIP BE: VOO Sports 2HD
+http://admin-mainpanel.club:8080/test/test/10381
+#EXTINF:-1 tvg-ID="voosport3fr.be" tvg-name="VIP BE: VOO Sports 3HD" tvg-logo="" group-title="Live: Belgium",VIP BE: VOO Sports 3HD
+http://admin-mainpanel.club:8080/test/test/14904
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BE: Proximus 11 Sport 1 FHD" tvg-logo="" group-title="Live: Belgium",VIP BE: Proximus 11 Sport 1 FHD
+http://admin-mainpanel.club:8080/test/test/63552
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BE: Proximus 11 Sport 2 FHD" tvg-logo="" group-title="Live: Belgium",VIP BE: Proximus 11 Sport 2 FHD
+http://admin-mainpanel.club:8080/test/test/63553
+#EXTINF:-1 tvg-ID="playsports1.be" tvg-name="VIP BE: Play Sport 1HD" tvg-logo="" group-title="Live: Belgium",VIP BE: Play Sport 1HD
+http://admin-mainpanel.club:8080/test/test/22436
+#EXTINF:-1 tvg-ID="playsports2.be" tvg-name="VIP BE: Play Sport 2HD" tvg-logo="" group-title="Live: Belgium",VIP BE: Play Sport 2HD
+http://admin-mainpanel.club:8080/test/test/7760
+#EXTINF:-1 tvg-ID="playsports3.be" tvg-name="VIP BE: Play Sport 3HD" tvg-logo="" group-title="Live: Belgium",VIP BE: Play Sport 3HD
+http://admin-mainpanel.club:8080/test/test/7759
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BE: Play Sport 4HD" tvg-logo="" group-title="Live: Belgium",VIP BE: Play Sport 4HD
+http://admin-mainpanel.club:8080/test/test/50382
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BE: Play Sport 5HD" tvg-logo="" group-title="Live: Belgium",VIP BE: Play Sport 5HD
+http://admin-mainpanel.club:8080/test/test/50383
